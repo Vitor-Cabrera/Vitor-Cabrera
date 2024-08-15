@@ -1,16 +1,19 @@
-## Hi there 👋
+## Olá! VITOR AQUI 🤑
 
-<!--
-**Vitor-Cabrera/Vitor-Cabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo Vitor Cabrera, sou um intusiasta no ramo da tecnologia e desenvolvimento, me interesso pela programação e gosto muito de inteligência artificial, pricipalmente voltada para o mercado financeiro, tenho muitos prjetos em mente para o futuro, espero que gostem.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Estou me desenvolvendo nas seguintes áreasa:
+<p align="left">  </a> </a> 
+
+![PYTHON](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+##
+ 
+
+
+
+
+
+
