@@ -10,6 +10,16 @@ Olá! Me chamo Vitor Cabrera, sou um intusiasta no ramo da tecnologia e desenvol
 ![PYTHON](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
 ##
+
+<div> 
+    <a href="https://github.com/Vitor-Cabrera">
+    <img height="196" src="https://github-readme-stats.vercel.app/api?username=Vitor-Cabrera&coun_private=true&show_icons=true&title_color=512E5F&icon_color=512E5F&border_color=512E5F&border_radius=9" />
+<!---
+    Darkmode = https://github-readme-stats.vercel.app/api?username=Vitor-Cabrera&coun_private=true&show_icons=true&theme=dark&border_radius=10
+-->
+    <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Cabrera&layout=compact&langs_count=10&title_color=512E5F&icon_color=512E5F&border_color=512E5F&border_radius=9">
+
+</div>
  
 
 
